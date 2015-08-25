@@ -1,0 +1,11 @@
+#ifndef __SPRITE_OBSTACLE1__
+#define __SPRITE_OBSTACLE1__
+
+#define OBSTACLE1__EVENT_0	20001
+#define OBSTACLE1__EVENT_0	20002
+
+
+#define OBSTACLE1__ANI_0	40001
+
+
+#endif //__SPRITE_OBSTACLE1__
